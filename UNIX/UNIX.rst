@@ -1,9 +1,10 @@
 UNIX
 
 #. Booting
-#. Installing Tape
 
-    #. Check tape content
+    #. Installing Tape
+
+        #. Check tape content
 
 #. Char IO system
 #. Block IO system
